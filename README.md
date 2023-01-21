@@ -27,6 +27,13 @@ list of windows-system related tools
 | --- | --- | --- |
 | AMD Cleanup Utility | remove any previously installed AMD graphics and audio drivers/software | [Link](https://www.amd.com/en/support/kb/faq/gpu-601) |
 | Display Driver Uninstaller DDU | driver removal utility for uninstalling AMD/NVIDIA graphics card drivers | [Link](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) |
+
+## Power Tools
+| Name | Description | Website |
+| --- | --- | --- |
+| IconViewer | Explorer extension that lets you view, copy, and save icons contained within programs and libraries | [Link](https://www.botproductions.com/iconview/iconview.html) |
+| NSSM | allows to register a non-service executable as a service | [Link](http://nssm.cc/) |
+
 <!--
 ## Template
 | Name | Description | Website |
