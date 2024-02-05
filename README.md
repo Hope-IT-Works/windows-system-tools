@@ -31,7 +31,7 @@ list of windows-system related tools
 | --- | --- | --- |
 | AMD Cleanup Utility | remove any previously installed AMD graphics and audio drivers/software | [Link](https://www.amd.com/en/support/kb/faq/gpu-601) |
 | Display Driver Uninstaller DDU | driver removal utility for uninstalling AMD/NVIDIA graphics card drivers | [Link](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) |
-| SFC | verifies and corrects windows system files | [Link](https://support.microsoft.com/en-us/topic/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e) |
+| System File Checker (SFC) | verifies and corrects windows system files | [Link](https://support.microsoft.com/en-us/topic/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e) |
 
 ## Power Tools
 | Name | Description | Website |
