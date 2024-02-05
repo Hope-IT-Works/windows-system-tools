@@ -1,6 +1,10 @@
 # windows-system-tools
 list of windows-system related tools
 
+**Great sources for tools:**
+- [NirSoft](https://www.nirsoft.net/)
+- [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/)
+
 ## Analysis
 | Name | Description | Website |
 | --- | --- | --- |
@@ -13,7 +17,7 @@ list of windows-system related tools
 | pestudio | spot artifacts of executable files | [Link](https://www.winitor.com/)
 | Process Explorer | shows you information about which handles and DLLs processes have opened or loaded | [Link](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) |
 | Process Monitor | advanced monitoring tool that shows real-time file system, Registry and process/thread activity | [Link](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) |
-| TreeSize Free | Quickly Scan Directory Sizes and Find Space Hogs | [Link](https://www.jam-software.com/treesize_free)
+| TreeSize Free | quickly scan directory sizes and find space hogs | [Link](https://www.jam-software.com/treesize_free)
 
 ## Anti-Virus
 | Name | Description | Website |
@@ -33,6 +37,7 @@ list of windows-system related tools
 | --- | --- | --- |
 | IconViewer | Explorer extension that lets you view, copy, and save icons contained within programs and libraries | [Link](https://www.botproductions.com/iconview/iconview.html) |
 | NSSM | allows to register a non-service executable as a service | [Link](http://nssm.cc/) |
+| PowerToys | set of utilities for power users to tune and streamline their Windows experience for greater productivity | [Link](https://learn.microsoft.com/en-US/windows/powertoys/) |
 
 <!--
 ## Template
