@@ -26,19 +26,26 @@ list of windows-system related tools
 | Malwarebytes AdwCleaner | removes adware and unwanted programs | [Link](https://malwarebytes.com/adwcleaner/) |
 | Microsoft Safety Scanner | tool designed to find and remove malware | [Link](https://docs.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) |
 
-## Repair/Fixing
-| Name | Description | Website |
-| --- | --- | --- |
-| AMD Cleanup Utility | remove any previously installed AMD graphics and audio drivers/software | [Link](https://www.amd.com/en/support/kb/faq/gpu-601) |
-| Display Driver Uninstaller DDU | driver removal utility for uninstalling AMD/NVIDIA graphics card drivers | [Link](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) |
-| System File Checker (SFC) | verifies and corrects windows system files | [Link](https://support.microsoft.com/en-us/topic/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e) |
-
 ## Power Tools
 | Name | Description | Website |
 | --- | --- | --- |
 | IconViewer | Explorer extension that lets you view, copy, and save icons contained within programs and libraries | [Link](https://www.botproductions.com/iconview/iconview.html) |
 | NSSM | allows to register a non-service executable as a service | [Link](http://nssm.cc/) |
 | PowerToys | set of utilities for power users to tune and streamline their Windows experience for greater productivity | [Link](https://learn.microsoft.com/en-US/windows/powertoys/) |
+
+## Reader / Viewer
+| Name | Description | Website |
+| --- | --- | --- |
+| NAPS2 - Not Another PDF Scanner | NAPS2 is free and open source scanning software for Windows, Mac and Linux. | [Link](https://www.naps2.com/) |
+| PDF24 Creator | Free and easy to use PDF solution with many features for download | [Link](https://www.pdf24.org/) |
+| Quba-Viewer | Quba is a viewer for electronic invoices | [Link](https://quba-viewer.org/) |
+
+## Repair/Fixing
+| Name | Description | Website |
+| --- | --- | --- |
+| AMD Cleanup Utility | remove any previously installed AMD graphics and audio drivers/software | [Link](https://www.amd.com/en/support/kb/faq/gpu-601) |
+| Display Driver Uninstaller DDU | driver removal utility for uninstalling AMD/NVIDIA graphics card drivers | [Link](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) |
+| System File Checker (SFC) | verifies and corrects windows system files | [Link](https://support.microsoft.com/en-us/topic/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e) |
 
 <!--
 ## Template
